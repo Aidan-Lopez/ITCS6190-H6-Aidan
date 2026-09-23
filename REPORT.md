@@ -129,7 +129,7 @@ user_97,Pop,4
 user_98,Classical,4
 user_99,Pop,4
 
-These results returned show what genres sleep the most. Jazz seems to be one of the more popular ones.
+These results show the favorite genre of each user. Jazz seems to be one of the more popular ones.
 
 ```
 
