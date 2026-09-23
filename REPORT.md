@@ -129,6 +129,7 @@ user_97,Pop,4
 user_98,Classical,4
 user_99,Pop,4
 
+These results returned show what genres sleep the most. Jazz seems to be one of the more popular ones.
 
 ```
 
@@ -189,14 +190,12 @@ song_34,Title_song_34,122.5,18
 song_18,Title_song_18,104.7,10
 
 
-
+These results listed are the average listening time for each song. Song 39 is the highest.
 
 ```
 
 ### Task 3: genre loyalty score, top 10
-
 ```
-
 user_id,genre,play_count,total_plays,loyalty_score
 user_34,Pop,10,10,1.0
 user_68,Pop,9,9,1.0
@@ -209,6 +208,8 @@ user_73,Pop,8,9,0.889
 user_14,Hip-Hop,7,8,0.875
 user_25,Classical,7,8,0.875
 
+
+users loyalty score of 1.0 can be achieved by listening to only one genre. Maybe adding a multiple loyalty scores for different ranges of listens would be better.
 
 
 ```
@@ -311,6 +312,8 @@ user_98,1
 user_99,1
 
 ```
+
+Users listened to music the most at the night. User 51 had the most night listens.
 
 ---
 
