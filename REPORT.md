@@ -359,7 +359,7 @@ The filescan operators reads listening_logs.csv and songs_metadata.csv. Spark us
 Which lines of your `main.py` are actions? How many jobs did the program launch according to
 the Spark UI, and is that what you expected?
 
-My programed lauched 40 jobs. I can be expected because one spark job can make others
+My programed launched 40 jobs. It can be expected since one spark job can make others.
 
 ---
 
