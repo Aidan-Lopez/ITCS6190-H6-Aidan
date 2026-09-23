@@ -1,0 +1,11 @@
+user_id,genre,play_count,total_plays,loyalty_score
+user_34,Pop,10,10,1.0
+user_68,Pop,9,9,1.0
+user_48,Jazz,8,8,1.0
+user_36,Rock,5,5,1.0
+user_84,Hip-Hop,4,4,1.0
+user_53,Hip-Hop,16,17,0.941
+user_30,Jazz,8,9,0.889
+user_73,Pop,8,9,0.889
+user_14,Hip-Hop,7,8,0.875
+user_25,Classical,7,8,0.875
